@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Full-Stack+Builder+%F0%9F%9A%80;Blockchain+Explorer+%E2%9B%93;Android+Dev+%F0%9F%93%B1;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&background=0D1117&center=true&vCenter=true&width=600&height=50&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Full-Stack+Builder+%F0%9F%9A%80;Blockchain+Explorer+%E2%9B%93;Android+Dev+%F0%9F%93%B1;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -158,8 +158,8 @@ A real-time Android chat application built with Firebase for seamless messaging.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudra-Chitnis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Chitnis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Rudra-Chitnis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rudra-Chitnis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
@@ -193,6 +193,15 @@ current_focus = {
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*✨ If something I built sparked your curiosity, drop a ⭐ — it means more than you know!*
+
+</div>
 ---
 
 <div align="center">
