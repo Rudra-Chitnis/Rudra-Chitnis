@@ -203,11 +203,3 @@ current_focus = {
 
 </div>
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-*✨ If something I built sparked your curiosity, drop a ⭐ — it means more than you know!*
-
-</div>
